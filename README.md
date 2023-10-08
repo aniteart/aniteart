@@ -1,9 +1,14 @@
-- 👋 Hi, I'm Karol Lopes
-- 👀 I’m interested in Back-end Develoment
-- 🌱 I’m currently learning JavaScript + Node
-- 📫 My linkedln: https://www.linkedin.com/in/aloppesana/
 
-<!---
-aniteart/aniteart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### <h1 align ="center"> Greetings... Coffee? ☕ </h1>
+
+<div style="display: inline-block;" align="center">
+<a href="https://www.linkedin.com/in/aloppesana/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+  
+<div style="display: inline-block;" align="center">
+
+  
+
+

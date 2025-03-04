@@ -1,5 +1,5 @@
 <h1 style="text-align: center; color: #9f86c0">Hi there! I'm Karol <a href="https://www.linkedin.com/in/aloppesana/" target="_blank"  rel="noopener">
-     <img src="assets/link.gif" width="42px">
+     <img src="link.gif" width="45px">
     </a></h1>
 
 <p style="text-align: justify">
@@ -31,24 +31,20 @@
 
 ---
 
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniteart/aniteart/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniteart/aniteart/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aniteart/aniteart/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
 <br>
 <div style="text-align: center">
   <br>
-  <br>
 <img 
-      align="center" 
       alt="GitHub Stats" 
       height="300"  
       src="https://spotify-recently-played-readme.vercel.app/api?user=pgfn960ng80b6qbkoottdqz73" 
   />
-</div>
 
 
 

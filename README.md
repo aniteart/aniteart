@@ -31,13 +31,15 @@
 
 ---
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniteart/aniteart/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniteart/aniteart/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aniteart/aniteart/output/github-snake.svg" />
+</picture>
+
 <br>
 <div style="text-align: center">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=aniteart&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
   <br>
   <br>
 <img 
@@ -48,11 +50,6 @@
   />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
 
   

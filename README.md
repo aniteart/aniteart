@@ -2,14 +2,14 @@
     <img src="me.png">
 </div>
 
-<h1
+<h1 style="text-align: center">
   <a href="https://www.linkedin.com/in/aloppesana/" target="_blank" rel="noopener">
     <img src="link.gif" width="45px">
   </a>
 </h1>
 
-<div align="center">
-  <p style="text-align: justify; ">
+<div style="text-align: justify">
+  <p>
     I have a degree in <b style="color: #9f86c0">Psychology</b> and worked in the field for about three years, where I was able to develop essential skills such as communication and problem-solving. In 2024, I decided to follow my dream of diving into the world of technology. I am currently studying Systems Analysis and Development, and every day I discover more about this fascinating field. I am driven by the constant search for knowledge, I love reading (especially about topics that broaden my worldview) and, of course, I never give up a good cup of <b style="color:#a98467">Coffee</b> to accompany my learning journeys.
   </p>
 

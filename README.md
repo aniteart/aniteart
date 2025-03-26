@@ -74,11 +74,4 @@
   <img
     alt="GitHub Stats"   
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-
-  <!-- Spotify Widget -->
-  <img 
-    alt="GitHub Stats" 
-    height="300"  
-    src="https://spotify-recently-played-readme.vercel.app/api?user=pgfn960ng80b6qbkoottdqz73" 
-  />
 </div>
